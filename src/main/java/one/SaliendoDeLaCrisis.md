@@ -1,0 +1,1 @@
+<h1>La abeja reina dijo hace unos cuantos meses que la colmena estaba por fin saliendo de la crisis. Ahora Maya quiere comprobar cómo de ciertas eran aquellas declaraciones, así que ha recopilado el histórico de distintos indicadores económicos desde el día de la declaración hasta hoy para ver si, efectivamente, todos ellos han ido creciendo día a día desde entonces.</h1>
