@@ -1,4 +1,4 @@
-package junit5.aONE;
+package aONE;
 
 import one.Calculadora;
 import org.junit.jupiter.api.Test;
