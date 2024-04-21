@@ -20,7 +20,7 @@ public class ExcursionTest {
     }
 
     @Test
-    @DisplayName("precio alumno: 100 alumnos")
+    @DisplayName("precio alumno: 100 alumnos") //@DisplayName("precio alumno: 100 alumnos"): Esta es otra anotación de JUnit que proporciona un nombre legible para la prueba. Este nombre se mostrará cuando se ejecute la prueba.
     void calcularPrecioAlumno1() {
         e = new Excursion(100); // instancio el objeto excursión con 100 alumnos
         assertEquals(65, e.calcularPrecioAlumno());

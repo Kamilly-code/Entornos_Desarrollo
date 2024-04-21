@@ -9,11 +9,11 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ExcursionMetodosEstaticosTest {
     @BeforeEach
-    void setUp() {
+    void setUp() { //No código que você forneceu, o método setUp() está vazio e anotado com @BeforeEach. Isso significa que ele será executado antes de cada teste, mas atualmente não faz nada. Se houver alguma configuração que precisa ser feita antes de cada teste, ela deve ser colocada neste método.
     }
 
     @AfterEach
-    void tearDown() {
+    void tearDown() { //En el código que proporcionaste, el método tearDown() está vacío y anotado con @AfterEach. Esto significa que se ejecutará después de cada prueba, pero actualmente no hace nada. Si hay alguna limpieza o restablecimiento que necesite hacerse después de cada prueba, debería colocarse en este método.
     }
 
     @Test

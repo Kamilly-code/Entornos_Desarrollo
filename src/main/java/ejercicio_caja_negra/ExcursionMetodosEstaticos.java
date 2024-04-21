@@ -19,7 +19,7 @@ public class ExcursionMetodosEstaticos {
             precio = 95;
             System.out.println("Precio: " +precio);
             return precio;
-        } else return 40000;  //Desarrolar ese método
+        } else return 4000/numeroAlumnos;  //Desarrolar ese método
     };
 
     public static double calcularCosteExcursion (int numeroAlumnos) {
