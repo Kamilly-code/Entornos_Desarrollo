@@ -3,19 +3,19 @@ package Ejemplo1;
 import java.util.Arrays;
 
 public class BateriaDePruebas {
-   private static String VALORENTRADA = "maria_p1l4r$$";
+   public static String VALORENTRADA = "12345-6789";
 
-   private String getVALORENTRADA () {
+   public String getVALORENTRADA () {
        return VALORENTRADA;
    }
 
-   private  void setVALORENTRADA (String valorentrada) {
+   public   void setVALORENTRADA (String valorentrada) {
        this.VALORENTRADA = valorentrada;
    }
 
    private static char [] letras;
    public boolean verificandoTamaño () {
-        if (VALORENTRADA.length() >= 5 || VALORENTRADA.length() <= 15) {
+        if (VALORENTRADA.length() >= 5 && VALORENTRADA.length() <= 15) {
             return true;
         }else return false;
    }
@@ -66,6 +66,8 @@ public class BateriaDePruebas {
         if (verificandoTamaño() && verificandoCaracteres() && verificandoGuión() && verificandoAlfabeto() && verificandoJava()) {
             return true;
         } else return false;}
+
+
 
     }
 

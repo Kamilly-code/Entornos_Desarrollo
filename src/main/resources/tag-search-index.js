@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Clase Empleado, se utiliza para crear y leer empleados de una BD","h":"class ejercicio3.Empleado","d":"Section","u":"ejercicio3/Empleado.html#clase-empleado-se-utiliza-para-crear-y-leer-empleados-de-una-bd-heading"}];updateSearchResults();
